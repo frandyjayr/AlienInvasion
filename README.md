@@ -22,5 +22,13 @@ For more  [HTML5 Game Development](http://www.html5gamedevelopment.org) resource
 * [HTML5 Game Development News](http://www.html5gamedevelopment.org/html5-news)
 * [HTML5 Game Engines](http://www.html5gamedevelopment.org/html5-engines)
 
+Contributing
+==============
+To contribute to the project, follow the steps placed here:
+
+1. Fork and clone this repository
+2. Make changes to the engine.js and/or game.js as desired
+3. Make changes committed to your new branch
+4. Make a pull request
 
 
